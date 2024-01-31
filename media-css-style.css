@@ -1,0 +1,159 @@
+
+/* responsive */
+
+@media (max-width: 1216px) {
+    .skills {
+        width: 80%;
+    }
+    .about h2 {
+    padding-top: 150px;
+}
+}
+  
+@media (max-width: 860px) {
+    
+    .about p {
+        width: 70%;
+    }
+    .skills {
+        padding: 60px;
+
+    }
+    .about h2 {
+    padding-top: 150px;
+}
+}
+
+
+@media (max-width: 810px) {
+    .two img {
+        width: 500px;
+    }
+    .about p {
+        width: 90%;
+    }
+    .about h2 {
+    padding-top: 150px;
+}
+}
+
+@media (max-width: 500px) {
+
+    .resume .head h1 {
+        font-size: 25px;
+    }
+
+    .navbar {
+        width: 100%;
+    }
+    .one .avatar img {
+        width: 170px;
+    }
+    
+    ul.links {
+        width: 10em;
+        margin: 0 auto;
+    }
+
+    .links li {
+        padding: 5px;
+        font-size: 20px;
+    }
+    
+    .one .designation {
+        font-size: 1.1rem;
+        margin-bottom: 5px;
+    }
+    
+    .one .sub-heading {
+        font-size: 13px;
+    }
+
+    .logo img {
+        width: 35px;
+    }
+
+    .two img {
+        width: 300px;
+    }
+
+    .about h2 {
+        font-size: 20px;
+        padding-top: 50px;
+    }
+
+    .about p {
+        font-size: 16px;
+    }
+
+    .skills {
+        width: 95%;
+        flex-direction: column;
+    }
+
+    .skills h1 {
+        font-size: 25px;
+    }
+
+    .skills h3 {
+        font-size: 21px;
+    }
+
+    .developer {
+        margin-top: 30px;
+    }
+
+    .projects {
+        margin-top: 600px;
+    }
+    
+    .about h2 {
+        padding-top: 150px;
+    }
+
+    footer {
+        padding: 10px !important;
+        margin-top: 50px !important;
+    }
+}
+
+
+@media (max-width: 300px) {
+    .two img {
+        width: 250px;
+    }
+    .name {
+        font-size: 30px !important;
+    }
+    .about h2 {
+        font-size: 16px;
+    }
+    .about p {
+        font-size: 14px;
+    }
+    .about p {
+        width: 60%;
+    }
+    .head h1 {
+        font-size: 20px !important;
+    }
+    .head p {
+        font-size: 16px !important;
+    }
+    .about h2 {
+        padding-top: 150px;
+    }
+    .visit h1 {
+        font-size: 24px;
+    }
+    .socials i {
+        font-size: 20px !important;
+    }
+    .resume .head h1 {
+        text-align: center !important;
+    }
+    .resume .head {        
+    margin-right: 200px;
+    margin-bottom: 60px;
+    }
+}
